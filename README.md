@@ -8,8 +8,9 @@
 - Profit.
 
 ***
-### Issues:
+### Issues or Suggestions:
 - Report here or in PHEx repo.
+- Suggest here or in PHEx repo.
 
 ***
 ### Credits:
